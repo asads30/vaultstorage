@@ -1110,7 +1110,7 @@ ul {
 
 .cover-single {
     padding-top: 90px;
-    padding-bottom: 248px;
+    padding-bottom: 100px;
 }
 
 .cover-single .cover-title {
@@ -1125,6 +1125,29 @@ ul {
     line-height: 28px;
     color: #000;
     margin-bottom: 0;
+}
+
+.storage-feat {
+    z-index: 5;
+    position: relative;
+}
+
+.storage-feat-item {
+    background: #F2F2F2;
+    border-radius: 4px;
+    padding: 28px;
+}
+
+.storage-feat-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
+
+.storage-feat-name {
+    font-size: 20px;
+    color: #000;
 }
 
 .features {
