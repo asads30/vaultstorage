@@ -325,6 +325,12 @@ ul {
     display: inline-block;
 }
 
+.about-video{
+    position: absolute;
+    right: 15px;
+    top: 9px;
+}
+
 .about-rect {
     position: absolute;
     left: -42px;
